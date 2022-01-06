@@ -13,12 +13,16 @@ Join us on [Discord](https://discord.gg/KWQrRE867Z)!
  * [x] Card data imported for Nostalgix TCG
  * [x] Initial decks display made available for consumption
  * [x] Logos created and updated
- * [ ] News page created
- * [ ] Community news page created 
 
 ### 2022 - January Release plans:
  * [x] Login and account system implemented
- * [ ] Discord / Google OAuth implemented to login
+ * [x] Discord / Google OAuth implemented to login
+ * [x] Deck checklist created
+ * [ ] Implement edit/import deck feature into deckbuilder
+ * [ ] Additional format supported on deckbuilder (mini decks?)
+ * [ ] News page created
+ * [ ] Community news page created 
+
 
 
 ### 2022 - February Release plans
